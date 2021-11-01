@@ -1,0 +1,16 @@
+{
+  "name": "hsjavacripttutorial",
+  "version": "1.0.0",
+  "description": "Health Space JavaScript lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "dependencies": {},
+  "repository": {}
+}
